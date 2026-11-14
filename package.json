@@ -1,0 +1,17 @@
+{
+  "name": "makefun-faa-attribution-01",
+  "version": "1.0.0",
+  "description": "Polymarket FAA Attribution Price Quantile Forecaster",
+  "main": "main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
